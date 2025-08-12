@@ -2,41 +2,57 @@
   "pelicula accion": [
     "Te recomiendo 'Gladiador', 'Mad Max: Fury Road' o 'Misión Imposible'.",
     "Si te gusta la acción, no te pierdas 'Duro de matar' o 'Los indestructibles'.",
-    "Para acción intensa, prueba 'The Dark Knight' o 'John Wick'."
+    "Para acción intensa, prueba 'The Dark Knight' o 'John Wick'.",
+    "También podrías ver 'Terminator 2: Judgment Day' o 'Inception'.",
+    "Si quieres explosiones y adrenalina, 'Top Gun: Maverick' es perfecta."
   ],
   "pelicula comedia": [
     "Puedes ver 'Superbad', 'La Máscara' o 'Deadpool'.",
-    "Para reír a carcajadas, 'Superbad' y 'Deadpool' son geniales.",
-    "'La Máscara' es una comedia clásica que no falla."
+    "Para reír a carcajadas, prueba 'Scary Movie' o 'Loco por Mary'.",
+    "'Forrest Gump' tiene comedia y corazón, ¡imperdible!",
+    "Si buscas humor absurdo, 'Hot Fuzz' es una gran opción.",
+    "'Zoolander' es ideal para una noche de risas."
   ],
   "pelicula terror": [
     "¿Qué tal 'El Conjuro', 'It' o 'Hereditary'?",
-    "'El Conjuro' y 'It' son perfectas para una noche de terror.",
-    "Si te gusta el horror, 'Hereditary' es imprescindible."
+    "Si te gusta el horror, prueba con 'Midsommar' o 'The Babadook'.",
+    "'Siniestro' es escalofriante y muy recomendable.",
+    "Para terror psicológico, mira 'La Bruja'.",
+    "'REC' es ideal si quieres un found footage aterrador."
   ],
   "pelicula romantica": [
     "Te recomiendo 'The Notebook', 'La La Land' o 'Orgullo y Prejuicio'.",
-    "'La La Land' y 'The Notebook' son historias románticas preciosas.",
-    "Para romance, no te pierdas 'Orgullo y Prejuicio'."
+    "'Antes del Amanecer' es una historia romántica única.",
+    "Si quieres romance con un toque de fantasía, prueba 'About Time'.",
+    "'Bajo la misma estrella' es conmovedora y hermosa.",
+    "'Notting Hill' es un clásico romántico."
   ],
   "serie accion": [
     "Prueba con '24', 'The Mandalorian' o 'Stranger Things'.",
-    "'The Mandalorian' y 'Stranger Things' tienen mucha acción y aventura.",
-    "Si quieres adrenalina, '24' es una excelente opción."
+    "Si quieres adrenalina, 'Jack Ryan' es excelente.",
+    "'Prison Break' combina acción y suspenso como pocas.",
+    "'The Boys' es acción con humor negro y superhéroes.",
+    "Para un clásico moderno, 'Breaking Bad' es imprescindible."
   ],
   "serie comedia": [
     "Puedes ver 'Brooklyn Nine-Nine', 'The Office' o 'Friends'.",
-    "'The Office' es una comedia de culto, ¡te encantará!",
-    "'Brooklyn Nine-Nine' y 'Friends' son perfectas para reír sin parar."
+    "'Parks and Recreation' es humor y carisma puro.",
+    "'Community' tiene comedia inteligente y parodias geniales.",
+    "'How I Met Your Mother' mezcla risas y romance.",
+    "'Scrubs' es divertida y entrañable a la vez."
   ],
   "serie terror": [
     "¿Qué tal 'The Haunting of Hill House' o 'American Horror Story'?",
-    "'American Horror Story' es ideal para los fans del terror.",
-    "No te pierdas 'The Haunting of Hill House' para una experiencia escalofriante."
+    "'Marianne' es una serie francesa escalofriante.",
+    "'Midnight Mass' combina terror y drama de forma brillante.",
+    "'Penny Dreadful' mezcla terror gótico con personajes clásicos.",
+    "'Slasher' es perfecta si te gustan los asesinos seriales."
   ],
   "serie romantica": [
     "Te recomiendo 'Outlander', 'Bridgerton' o 'Jane the Virgin'.",
-    "'Bridgerton' y 'Outlander' son series románticas fascinantes.",
-    "Si quieres romance y drama, 'Jane the Virgin' es para ti."
+    "'Love' es una comedia romántica muy fresca.",
+    "'Normal People' es intensa y emocional.",
+    "'This Is Us' tiene romance y drama familiar.",
+    "'Emily in Paris' es ligera y entretenida."
   ]
 }
